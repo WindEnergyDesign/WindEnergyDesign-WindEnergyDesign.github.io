@@ -1,1 +1,1 @@
-# https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git
+# WindEnergyDesign.girhub.io
