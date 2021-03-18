@@ -1,1 +1,1 @@
-# WindEnergyDesign.girhub.io
+# WindEnergyDesign.github.io
